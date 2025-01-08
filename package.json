@@ -1,18 +1,18 @@
 {
-  "name": "cordova-plugin-inappbrowser",
-  "version": "6.0.0",
-  "description": "Cordova InAppBrowser Plugin",
+  "name": "@moodlehq/cordova-plugin-inappbrowser",
+  "version": "6.0.0-moodle.1",
+  "description": "Moodle's fork of Cordova InAppBrowser Plugin",
   "types": "./types/index.d.ts",
   "cordova": {
-    "id": "cordova-plugin-inappbrowser",
+    "id": "@moodlehq/cordova-plugin-inappbrowser",
     "platforms": [
       "android",
       "browser",
       "ios"
     ]
   },
-  "repository": "github:apache/cordova-plugin-inappbrowser",
-  "bugs": "https://github.com/apache/cordova-plugin-inappbrowser/issues",
+  "repository": "github:moodlemobile/cordova-plugin-inappbrowser",
+  "bugs": "https://github.com/moodlemobile/cordova-plugin-inappbrowser/issues",
   "keywords": [
     "cordova",
     "in",
